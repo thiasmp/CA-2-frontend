@@ -1,4 +1,4 @@
-const URL = 'http://localhost:8080/CA2_Backend';
+const URL = 'www.thiasmeyer.dk';
 
 function handleHttpErrors(res) {
   if (!res.ok) {
