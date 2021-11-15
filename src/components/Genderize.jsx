@@ -36,9 +36,9 @@ function Genderize (props){
             </label>
             <button type="submit">Submit</button>
           </form>
-          <p>{name}</p>
-          <p>{gender}</p>
-          <p>{probability}</p>
+          <p>Name: {name}</p>
+          <p>Gender: {gender}</p>
+          <p>Probability of gender: {probability}</p>
         </div>
       );
 }
